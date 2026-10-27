@@ -4,11 +4,11 @@
 
 | Campo | Información |
 |---|---|
-| Nombre | [Jacobo Zamora] |
+| Nombre | Jacobo Zamora |
 | Curso | 2º ASIR |
 | Módulo | 0377 · Administración de Sistemas Gestores de Bases de Datos |
 | Reto | Despliegue y operación de un servidor Oracle aislado |
-| Fecha | [6/10/26 ] |
+| Fecha | 6/10/26 |
 
 ## 2. Objetivo del reto
 
