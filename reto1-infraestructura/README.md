@@ -101,16 +101,16 @@ Con la VM apagada correctamente se creó `S3_Oracle_Servidor_Red_OK`.
 
 ## 10. Resultado del reto
 
-- [ ] Snapshot `S1_Oracle_Previa` creado.
-- [ ] Oracle 21c XE instalado como administrador.
-- [ ] Credenciales configuradas (sin publicarlas).
-- [ ] Servicio `OracleServiceXE` operativo.
-- [ ] Incidencia ORA-12560 provocada, diagnosticada y resuelta.
-- [ ] Bloqueo de red diagnosticado.
-- [ ] Regla de Firewall TCP 1521 creada.
-- [ ] Acceso cliente → servidor comprobado.
-- [ ] Snapshot `S3_Oracle_Servidor_Red_OK` creado.
-- [ ] README y evidencias subidos al repositorio.
+- [X] Snapshot `S1_Oracle_Previa` creado.
+- [X] Oracle 21c XE instalado como administrador.
+- [X] Credenciales configuradas (sin publicarlas).
+- [X] Servicio `OracleServiceXE` operativo.
+- [X] Incidencia ORA-12560 provocada, diagnosticada y resuelta.
+- [X] Bloqueo de red diagnosticado.
+- [X] Regla de Firewall TCP 1521 creada.
+- [X] Acceso cliente → servidor comprobado.
+- [X] Snapshot `S3_Oracle_Servidor_Red_OK` creado.
+- [X] README y evidencias subidos al repositorio.
 
 ## 11. Repositorio
 
